@@ -1,5 +1,12 @@
 # 💫 About Me:
-# Satyam Vohra<br><br>### Computer Science Engineer | Cyber Security Enthusiast | Developer<br><br>I am a Computer Science and Engineering student pursuing B.Tech (Honours in Cyber Security) at Graphic Era Hill University (2023–2027).<br><br>I have a strong interest in understanding technology, developing software solutions, and exploring the security aspects of digital systems. I enjoy learning how things work behind the scenes and applying that knowledge to build practical solutions.<br><br>- Currently pursuing B.Tech in CSE (Honours in Cyber Security).<br>- Based in Saharanpur, Uttar Pradesh, India.<br>- Interested in Cyber Security, Ethical Hacking and Network Security.<br>- Exploring Full Stack Development and modern web technologies.<br>- Enjoy solving logical problems and exploring new technologies.<br>- Chess enthusiast with a passion for strategy and critical thinking.<br><br>### Areas of Interest<br><br>- Cyber Security & Information Security<br>- Ethical Hacking & Network Security<br>- Full Stack Web Development<br>- Software Engineering<br>- Problem Solving & Logical Thinking<br><br>### My Approach<br><br>I believe in continuous learning, practical implementation, and understanding concepts beyond the surface. My goal is to combine software development with cybersecurity knowledge to build reliable, efficient, and secure digital solutions.<br><br>**Think. Build. Secure. Improve.**
+# Satyam Vohra
+
+**Bachelor of Technology in Computer Science and Engineering (Honours in Cyber Security)**  
+Graphic Era Hill University | 2023–2027
+
+Interested in Cyber Security, Software Development and building secure, reliable digital solutions.
+
+**Academic Focus:** Cyber Security | Software Development | Open Source Contribution
 
 
 ## 🌐 Socials:
