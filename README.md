@@ -40,12 +40,4 @@ Interested in Cyber Security, Software Development and building secure, reliable
 [![](https://komarev.com/ghpvc/?username=Satyam-vohra&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/2196f3/YOUR_USERNAME"
-    alt="Blue GitHub Contribution Graph"
-    width="100%"
-  />
-</p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
