@@ -8,9 +8,13 @@ Interested in Cyber Security, Software Development and building secure, reliable
 
 **Academic Focus:** Cyber Security | Software Development | Open Source Contribution
 
+
+
 <p align="center">
   <img src="./github.gif" width="100%" alt="GitHub Animation">
 </p>
+
+
 
 
 ## 🌐 Socials:
